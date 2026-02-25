@@ -1,20 +1,8 @@
-
-<!--
-**ardqeren/ardqeren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...<div align="center">
+<div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arda%20Eren&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=52" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+the+future+with+code+%F0%9F%9A%80;Passionate+about+AI+%26+Machine+Learning" alt="Typing SVG" /></a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ArdaEren2401&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-</p>
 
 <p>
   <a href="https://www.linkedin.com/in/arda-eren-7030422a2/">
@@ -27,7 +15,7 @@ Here are some ideas to get you started:
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> Hakkımda
 
 ```javascript
 const ardaEren = {
@@ -39,9 +27,3 @@ const ardaEren = {
     currentFocus: "Improving my development skills",
     funFact: "I turn coffee into code ☕ → 💻"
 };
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
