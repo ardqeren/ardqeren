@@ -24,13 +24,14 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> Hakkımda
 
-```javascript
-const ardaEren = {
-    location: "Türkiye 🇹🇷",
-    education: "Computer Programming",
-    skills: {
-        languages: ["Python", "JavaScript", "C#"]
-    },
-    currentFocus: "Improving my development skills",
-    funFact: "I turn coffee into code ☕ → 💻"
-};
+🌍 **Konum:** Türkiye 🇹🇷  
+🎓 **Eğitim:** Computer Programming  
+🎯 **Şu anki Odak:** Improving my development skills  
+
+### 💻 Diller
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
