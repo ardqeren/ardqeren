@@ -33,17 +33,8 @@
 
 ## 🛠 Diller ve Teknolojiler
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-<br/>
-
-## 📊 GitHub İstatistikleri
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardaeren2401&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardaeren2401&theme=tokyonight&hide_border=true&background=0D1117" height="192" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
