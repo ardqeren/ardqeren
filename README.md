@@ -20,8 +20,6 @@
 
 </div>
 
-<br/>
-
 ---
 
 ## 👨‍💻 Hakkımda
@@ -38,16 +36,11 @@
 ## 🛠 Diller ve Teknolojiler
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="40" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" />
 </p>
 
 <br/>
-
-## 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardaeren2401&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardaeren2401&theme=tokyonight&hide_border=true&background=0D1117" height="180" />
-</p>
